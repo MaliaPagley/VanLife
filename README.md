@@ -1,0 +1,1 @@
+Van Life is a project that I created in order to practice using react-router-dom library. It allows users to view a lost of vans that can be rented and a login feature along with authentication in order to access host features within the application.
